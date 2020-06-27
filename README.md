@@ -1,7 +1,7 @@
 # Lithium conducting polymer database
 ## Developed by Kan Hatakeyama-Sato, Toshiki Tezuka, Momoka Umeki, and Kenichi Oyaizu	
 
-#Explanation	
+## Explanation	
 - Contain chemical structures of lithium conducting polymers and their experimental ionic conductivity. Data were collected from public literature.	
 - See the following article for the detailed information about the format and content	
 
