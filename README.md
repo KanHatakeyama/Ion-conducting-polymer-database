@@ -9,3 +9,5 @@
 - Title	AI-assisted exploration of superionic glass-type Li+ conductors with aromatic structures 
 - Journal	J. Am. Chem. Soc.
 - DOI:	10.1021/jacs.9b11442
+- https://kanhatakeyama.github.io/
+
