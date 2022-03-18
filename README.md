@@ -1,6 +1,8 @@
 # Lithium conducting polymer database
 ## Developed by Kan Hatakeyama-Sato, Toshiki Tezuka, Momoka Umeki, and Kenichi Oyaizu	
 
+## Newer version with data server and machine learning implementation is [here](https://github.com/KanHatakeyama/ion_predictor)
+
 ## Explanation	
 - Contain chemical structures of lithium conducting polymers and their experimental ionic conductivity. Data were collected from public literature.	
 - See the following article for the detailed information about the format and content	
